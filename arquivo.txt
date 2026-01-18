@@ -1,0 +1,42 @@
+Arroz
+Feijão
+Macarrão
+Açúcar
+Sal
+Óleo de soja
+Farinha de trigo
+Farinha de milho
+Café
+Leite
+Achocolatado
+Biscoito
+Pão
+Manteiga
+Margarina
+Queijo
+Presunto
+Ovos
+Carne bovina
+Frango
+Linguiça
+Peixe
+Arroz integral
+Feijão preto
+Molho de tomate
+Extrato de tomate
+Maionese
+Ketchup
+Mostarda
+Refrigerante
+Suco
+Água mineral
+Sabão em pó
+Detergente
+Desinfetante
+Amaciante
+Papel higiênico
+Sabonete
+Shampoo
+Condicionador
+Creme dental
+Escova de dentes
